@@ -42,18 +42,18 @@
 <ul>
 	<li><span style="font-size:18px">La cantidad de accesos de internet fijo por rango de velocidad durante&nbsp;trimestres de cada a&ntilde;o</span></li>
 	<li>
-	<p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/accesos_rango.jpg" /></p>
+<p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/accesos_rango.jpg" /></p>
 	<p><span style="font-size:18px">La cantidad de accesos por tecnologia de internet fijo durante&nbsp;trimestres de cada a&ntilde;o por provincia</span></p>
 	</li>
-	<p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/popularity.jpg" /></p>
+<p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/popularity.jpg" /></p>
 	<li>
 	<p><span style="font-size:18px">Los ingresos trimestrales en miles de pesos</span></p>
 	</li>
-	<p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/Ingresos.jpg" /></p>
+<p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/Ingresos.jpg" /></p>
 	<li>
 	<p><span style="font-size:18px">Cantidad de accesos cada 100 hogares trimestralmente y por provincia</span></p>
 	</li>
-	<p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/Accesos por hogar.jpg" /></p>
+<p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/Accesos por hogar.jpg" /></p>
 </ul>
 
 <p>&nbsp;</p>
