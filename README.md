@@ -51,7 +51,7 @@
 	<p><span style="font-size:18px">Cantidad de accesos cada 100 hogares trimestralmente y por provincia</span></p>
 	</li>
 </ul>
-<p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/Accesos por hogar.jpg" /></p>
+<p><img src="https://github.com/Galo0000/Analitics_Proyect/blob/main/Imagenes/Accesos%20por%20hogar.jpg" /></p>
 
 <p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/accesos_rango.jpg" /></p>
 <p><img src="https://github.com/Galo0000/Analitics_Proyect/tree/main/Imagenes/popularity.jpg" /></p>
