@@ -41,7 +41,6 @@
 
 <ul>
 	<li><span style="font-size:18px">La cantidad de accesos de internet fijo por rango de velocidad durante&nbsp;trimestres de cada a&ntilde;o</span></li>
-	<li>
 	<p><img src="https://github.com/Galo0000/Analitics_Proyect/blob/main/Imagenes/accesos_rango.jpg" /></p>
 	<p><span style="font-size:18px">La cantidad de accesos por tecnologia de internet fijo durante&nbsp;trimestres de cada a&ntilde;o por provincia</span></p>
 	</li>
