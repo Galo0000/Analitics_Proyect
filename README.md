@@ -47,7 +47,7 @@
 
 <p style="text-align:center"><span style="font-size:18px">La cantidad de accesos por tecnologia de internet fijo&nbsp;</span></p>
 
-<p style="text-align:center"><span style="font-size:18px">***************</span></p>
+<img src="https://github.com/Galo0000/Analitics_Proyect/blob/main/Imagenes/Accesos_tecnologia.jpg">
 
 <p style="text-align:center"><span style="font-size:16px">Este grafico muestra como la tecnologia de ADLS a decrecido en accesos siendo superada por cablemodem e incluso fibra optica. En el caso de Wireles y otros han tenido una leve subida a partir del 2017.</span></p>
 
@@ -57,7 +57,7 @@
 
 <p style="text-align:center">T<span style="font-size:16px">eniendo en cuenta que la tecnologia cable modem utiliza la red de cable coaxial utilizada a su vez por la se&ntilde;al de TV</span></p>
 
-<p style="text-align:center"><span style="font-size:16px">********</span></p>
+<img src="https://github.com/Galo0000/Analitics_Proyect/blob/main/Imagenes/cablemodem%20vs%20tv.jpg">
 
 <p style="text-align:center"><span style="font-size:16px">Este grafico muestra explica en parte como la tecnologia cablemodem a podido aumentar los accesos gracias a los accesos a TV ya que utilizan el mismo tipo de conexion. A nivel nacional los accesos a por cablemodem y tv en los ultimo trimestres todavia tienen una franja de espacio.</span></p>
 
@@ -65,7 +65,7 @@
 
 <p style="text-align:center"><span style="font-size:18px">Los ingresos trimestrales en miles de pesos</span></p>
 
-<p style="text-align:center"><span style="font-size:18px">***************</span></p>
+<img src="https://github.com/Galo0000/Analitics_Proyect/blob/main/Imagenes/Ingresos.jpg">
 
 <p><span style="font-size:16px">Este grafico demuestras que proveer de acceso a internet es una actividad muy rentable y se podria adjudicar a la globalizacion y a la necesidad de mayores velocidades ya que no solo aumenta la demanda sino que tambien la magnitud de la informacion que se sube y se baja de la internet.</span></p>
 
