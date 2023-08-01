@@ -21,6 +21,8 @@
 
 <p><span style="font-size:20px">EDA: Archivo con extencion ipynb con el desarrollo de EDA.</span></p>
 
+<p><span style="font-size:20px">image: Carpeta que contiene las imagenes del readmi.</span></p>
+
 <p>&nbsp;</p>
 
 <p><span style="font-size:26px"><strong>Descripci&oacute;n del Proyecto</strong></span></p>
